@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'flasksoap'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F8CC766BFEDE4C5CB5729F0E98CE4403 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AF55BF7D8D9B494B87A71697309FE698 }}
